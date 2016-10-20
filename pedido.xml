@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<pedidos>
+    <pedido numero="1000">
+        <cliente>
+            <razao_social>ABC</razao_social>
+            <cgc>00.000.000/0001-00</cgc>
+            <endereco>
+                <logradouro>Rua das Flores,75 </logradouro>
+                <cidade>Porto Alegre</cidade>
+                <estado>RS</estado>
+            </endereco>
+        </cliente>
+        <itens_pedido>
+            <item>
+                <produto>caneta azul</produto>
+                <quantidade>100</quantidade>
+                <preco_unit>2</preco_unit>
+            </item>
+            <item>
+                <produto>papel</produto>
+                <quantidade>100</quantidade>
+                <preco_unit>8</preco_unit>
+            </item>
+            <item>
+                <produto>1</produto>
+                <quantidade>1</quantidade>
+                <preco_unit>1</preco_unit>
+            </item>
+            <item>
+                <produto>1</produto>
+                <quantidade>1</quantidade>
+                <preco_unit>1</preco_unit>
+            </item>
+            <item>
+                <produto>2</produto>
+                <quantidade>2</quantidade>
+                <preco_unit>2</preco_unit>
+            </item>
+        </itens_pedido>
+    </pedido>
+</pedidos>

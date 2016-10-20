@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<estadios>
+    <estadio numero="1000">
+        <localidade>Brazil</localidade>
+        <equipe>
+            <time>Dje</time>
+            <funcoes>
+                <nome>Romildo</nome>
+                <funcao>rebatedor</funcao>    
+            </funcoes>
+            <funcoes>
+                <nome>Jubile</nome>
+                <funcao>Aremesador</funcao>    
+            </funcoes>
+            <funcoes>
+                <nome>DR. Anxoshucrutss</nome>
+                <funcao>defensor</funcao>    
+            </funcoes>
+            <funcoes>
+                <nome>Juliano</nome>
+                <funcao>hp</funcao>    
+            </funcoes>
+        </equipe>
+    </estadio>
+</estadios>
