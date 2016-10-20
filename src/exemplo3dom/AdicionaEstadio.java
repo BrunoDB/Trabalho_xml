@@ -27,7 +27,7 @@ public class AdicionaEstadio {
     }
 
     private static void adiciona(Document doc) throws IOException, TransformerException {
-        Element estadios, estadio, localidade, pais, equipe = null, time, funcoes, nome_funcao, funcao;
+        Element estadios, estadio, localidade = null, pais = null, equipe = null, time, funcoes, nome_funcao, funcao;
         Scanner leitura = new Scanner(System.in);
 
         //obtem referencia do elemento estadios
